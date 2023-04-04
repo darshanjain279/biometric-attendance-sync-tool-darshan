@@ -1,4 +1,4 @@
-# runs in both erpnext 13 and 14. need to mention erpnext version in config
+# runs in both erpnext 13 and 14. need to mention erpnext version in config.
 # Biometric Attendance Sync Tool <span style="font-size: 0.6em; font-style: italic">(For ERPNext)</span>
 #Install all dependencies to run it. in venv and also system if errors occour. 
 #Setup config.py as required. Do not need to edit the shit type. 
