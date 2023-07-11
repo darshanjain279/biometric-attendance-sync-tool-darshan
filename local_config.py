@@ -1,7 +1,7 @@
 
 # ERPNext related configs
-ERPNEXT_API_KEY = 'c39a9ada7d2e847'
-ERPNEXT_API_SECRET = '69bb014336c6496'
+ERPNEXT_API_KEY = 'Enter public key'
+ERPNEXT_API_SECRET = 'Enter private key'
 ERPNEXT_URL = 'http://192.168.181.133:8000/'
 ERPNEXT_VERSION = 14
 
